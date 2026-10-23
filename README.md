@@ -6,7 +6,7 @@ Colección de ejercicios resueltos en Geometría Diferencial, disponibles en for
 
 ## Descripción del Proyecto
 
-Este repositorio constituye un registro académico personal de trabajo formal en la asignatura Geometría Diferencial (GED4101), correspondiente a la Licenciatura en Matemática de la Universidad de El Salvador (UES).
+Este repositorio constituye un registro académico personal de trabajo formal en la asignatura Geometría Diferencial, correspondiente a la Licenciatura en Matemática de la Universidad de El Salvador (UES).
 
 El objetivo principal es documentar el desarrollo riguroso de problemas seleccionados sobre la teoría local de curvas, superficies y geometría intrínseca, tipografiados en LaTeX y diagramados para lectura digital.
 
